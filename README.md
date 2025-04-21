@@ -11,7 +11,7 @@ Created as part of my internship at Prodigy InfoTech.
  🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 📸 Screenshots
 
